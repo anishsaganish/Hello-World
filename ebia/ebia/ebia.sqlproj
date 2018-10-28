@@ -66,5 +66,6 @@
     <Build Include="emp_view.sql" />
     <Build Include="dept.sql" />
     <Build Include="abc\Views\emp_view_1.sql" />
+    <Build Include="ADW1\newADW.sql" />
   </ItemGroup>
 </Project>
