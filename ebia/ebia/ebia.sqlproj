@@ -60,5 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="emp.sql" />
+    <Build Include="emp_view.sql" />
   </ItemGroup>
 </Project>
