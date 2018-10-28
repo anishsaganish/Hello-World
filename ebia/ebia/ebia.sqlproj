@@ -59,6 +59,7 @@
     <Folder Include="Properties" />
     <Folder Include="abc" />
     <Folder Include="abc\Views" />
+    <Folder Include="ADW1" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="emp.sql" />
