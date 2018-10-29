@@ -4,6 +4,6 @@
     [Name_of_Feature] NCHAR(10) NULL, 
     [Code_of_feature] NCHAR(10) NULL
 	 [dollar_of_feature] NCHAR(10) NULL,
-	 [Amount_of_feature] NCHAR(10) NULL
+	
 )
 
